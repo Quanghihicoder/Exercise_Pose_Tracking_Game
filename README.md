@@ -30,7 +30,7 @@ Run: py main.py
 
 You can play Flappy Brid or Dinosaur Game
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Quanghihicoder/Exercise_Pose_Tracking_Game/blob/master/User_Manual.png)
 
 
 
