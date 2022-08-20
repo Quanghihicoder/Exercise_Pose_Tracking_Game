@@ -32,6 +32,10 @@ You can play Flappy Brid or Dinosaur Game
 
 ![alt text](https://github.com/Quanghihicoder/Exercise_Pose_Tracking_Game/blob/master/User_Manual.png)
 
+![alt text](https://github.com/Quanghihicoder/Exercise_Pose_Tracking_Game/blob/master/User_Manual1.png)
+
+![alt text](https://github.com/Quanghihicoder/Exercise_Pose_Tracking_Game/blob/master/User_Manual2.png)
+
 
 
 
