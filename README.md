@@ -28,6 +28,8 @@ Run: py main.py
 
 ## User Manual
 
+Video Demo: https://www.youtube.com/watch?v=fbXTH0GWLJw
+
 You can play Flappy Brid or Dinosaur Game
 
 ![alt text](https://github.com/Quanghihicoder/Exercise_Pose_Tracking_Game/blob/master/User_Manual.png)
