@@ -4,7 +4,7 @@
 
 Developed by Nhat Quang & Duc Anh
 
-Duc Anh github account: https://github.com/Davinci-Code-97
+Duc Anh github account: https://github.com/ducanhprovjp
 
 Our solution will make exercise more fun, by combining fitness and gaming. 
 Basically, we make games that require players to do physical movements to control the game instead of pressing buttons. 
